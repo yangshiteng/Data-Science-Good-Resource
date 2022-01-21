@@ -11,3 +11,9 @@ https://www.w3schools.com/python/
 # 3. SQL study - W3school
 
 https://www.w3schools.com/sql/default.asp
+
+# 4. Machine Learning, Data Science and Statistics Knowledge  
+
+https://statquest.org/
+
+https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
